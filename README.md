@@ -25,7 +25,7 @@ This Power BI dashboard provides insights into Netflix content by analyzing movi
 - Content Growth Over Time
 
 ## 📷 Dashboard Preview
-![Netflix Dashboard](Netflix Dashboard Report.png)
+<img src="Netflix%20Dashboard%20Report.png" width="800">
 
 ## 📂 Files Included
 - Netflix Content Analysis Report.pbix
